@@ -1,2 +1,2 @@
 # Soul-S1
-This is a script for bedwars
+The #1 Script For Bedwars!
